@@ -14,4 +14,4 @@ More Stuff!
 * Bullet
 * Points
 
-["Xpecto Lumos"]{https://XpectoLumos.WordPress.com}
+["Xpecto Lumos"](https://XpectoLumos.WordPress.com)
